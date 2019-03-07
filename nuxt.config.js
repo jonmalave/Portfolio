@@ -27,6 +27,7 @@ module.exports = {
       { hid: 'og:image:width', property: 'og:image:width', content: '1024' },
       { hid: 'og:image:height', property: 'og:image:height', content: '512' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'jonmalave.com' },
+      { hid: 'fb:app_id', property: 'fb:app_id', content: '2294868144103186' },      
       { hid: 'twitter:card', property: 'twitter:card', content: 'summary_large_image' },
       { hid: 'twitter:site', property: 'twitter:site', content: '@jonmalave' },
       { hid: 'twitter:creator', property: 'twitter:creator', content: 'Jon Malave' },
