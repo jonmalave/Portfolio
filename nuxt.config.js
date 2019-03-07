@@ -1,8 +1,8 @@
 module.exports = {
   // Server 
   server: {
-    host: '192.168.1.66',
-    port: 80
+    host: 'localhost',
+    port: 3000
   },
 
   // Mode  

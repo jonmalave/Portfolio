@@ -57,7 +57,7 @@
 
       <!-- Details --> 
       <p class="content__article-details content__article--margin-8">
-        A Content Portal Platform inspired by Google's YouTube Video-sharing platform. <br> 
+        A Game Portal Platform inspired by Google's YouTube Video-sharing platform. <br> 
         <span class="content__article-metadata">
           <b><i class="fa fa-code"/> Technology:</b> Nuxt.js, xStorage Plugin, Cloud Firestore, Firebase Authentication, Netlify 
         </span>  
@@ -87,7 +87,7 @@
       <p class="content__article-details content__article--margin-8">
         A Firebase + Nuxt.js Chat App inspired by Discord chat software.<br> 
         <span class="content__article-metadata">
-          <b>Technology:</b> Nuxt.js, xStorage Plugin, Cloud Firestore, Firebase Authentication, Netlify 
+          <b><i class="fa fa-code"/> Technology:</b> Nuxt.js, xStorage Plugin, Cloud Firestore, Firebase Authentication, Netlify 
         </span>  
       </p>   
 
@@ -115,7 +115,7 @@
       <p class="content__article-details content__article--margin-8">
         Browser Storage Plugin for Nuxt.js. Easily save and persist user session data.<br> 
         <span class="content__article-metadata">
-          <b>Technology:</b> Nuxt.js, Web API localStorage
+          <b><i class="fa fa-code"/> Technology:</b> Nuxt.js, Web API localStorage
         </span>  
       </p>   
 
@@ -139,9 +139,9 @@
 
       <!-- Details --> 
       <p class="content__article-details content__article--margin-8">
-        Portfolio Template built with Nuxt.js. <br> 
+        Clean, minimalistic, responsive Nuxt.js developer portfolio template.<br> 
         <span class="content__article-metadata">
-          <b>Technology:</b> Nuxt.js, Netlify
+          <b><i class="fa fa-code"/> Technology:</b> Nuxt.js, Netlify
         </span>  
       </p>   
 
@@ -169,7 +169,7 @@
       <p class="content__article-details content__article--margin-8">
         A Nuxt.js Boilerplate Project. Quickly start building a responsive static site or single-page application.<br> 
         <span class="content__article-metadata">
-          <b>Technology:</b> Nuxt.js
+          <b><i class="fa fa-code"/> Technology:</b> Nuxt.js, Netlify
         </span>  
       </p>   
 
