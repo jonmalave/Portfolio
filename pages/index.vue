@@ -64,19 +64,47 @@
       </p>   
 
       <!-- Preview -->   
-      <a href="https://xportal.netlify.com/" target="_blank">
+      <a href="https://xportal.netlify.com" target="_blank">
         <img src="/img/xPortal.jpg" class="content__article-preview">
       </a> 
 
       <!-- Links --> 
       <p class="content__article-details">
         -- <br>        
-        <a href="https://xportal.netlify.com/" target="_blank">Demo</a> | <a href="https://github.com/jonmalave/xPortal" target="_blank">View on Github</a>
+        <a href="https://xportal.netlify.com" target="_blank">Demo</a> | <a href="https://github.com/jonmalave/xPortal" target="_blank">View on Github</a>
       </p>   
       <hr>
     </article>
 
     <!-- Project[1] -->
+    <article class="content__article content__article--margin-8">
+      <!-- Title -->       
+      <p class="content__article-title content__article-title">
+        uAdmin 
+      </p>
+      
+      <!-- Details --> 
+      <p class="content__article-details content__article--margin-8">
+        Unity 3D Game Server Manager<br> 
+        <span class="content__article-metadata">
+          <b><i class="fa fa-code"/> Technology:</b> Vue.js, Vue-Router, Bootstrap, PHP & Bash (for RESTful API)
+        </span>  
+      </p>   
+
+      <!-- Preview -->   
+      <a href="https://github.com/jonmalave/uAdmin" target="_blank">
+        <img src="/img/uAdmin.jpg" class="content__article-preview"> 
+      </a>
+
+      <!-- Links --> 
+      <p class="content__article-details">
+        -- <br>        
+        <a href="https://github.com/jonmalave/uAdmin" target="_blank">View on Github</a>
+      </p>   
+      <hr>
+    </article>    
+
+    <!-- Project[2] -->
     <article class="content__article content__article--margin-8">
       <!-- Title -->       
       <p class="content__article-title content__article-title">
@@ -92,19 +120,19 @@
       </p>   
 
       <!-- Preview -->   
-      <a href="https://xchat.netlify.com/" target="_blank">
+      <a href="https://xchat.netlify.com" target="_blank">
         <img src="/img/xChat.jpg" class="content__article-preview"> 
       </a>
 
       <!-- Links --> 
       <p class="content__article-details">
         -- <br>        
-        <a href="https://xchat.netlify.com/" target="_blank">Demo</a> | <a href="https://github.com/jonmalave/xChat" target="_blank">View on Github</a>
+        <a href="https://xchat.netlify.com" target="_blank">Demo</a> | <a href="https://github.com/jonmalave/xChat" target="_blank">View on Github</a>
       </p>   
       <hr>
     </article>
 
-    <!-- Project[2] -->
+    <!-- Project[3] -->
     <article class="content__article content__article--margin-8">
       <!-- Title -->       
       <p class="content__article-title content__article-title">
@@ -120,7 +148,9 @@
       </p>   
 
       <!-- Preview -->   
-      <img src="/img/xStorage.jpg" class="content__article-preview"> 
+      <a href="https://github.com/jonmalave/xStorage" target="_blank">
+        <img src="/img/xStorage.jpg" class="content__article-preview"> 
+      </a>
 
       <!-- Links --> 
       <p class="content__article-details">
@@ -130,7 +160,7 @@
       <hr>
     </article>
 
-    <!-- Project[3] -->
+    <!-- Project[4] -->
     <article class="content__article content__article--margin-8">
       <!-- Title -->       
       <p class="content__article-title content__article-title">
@@ -158,7 +188,7 @@
       <hr>
     </article>    
 
-    <!-- Project[4] -->
+    <!-- Project[5] -->
     <article class="content__article content__article--margin-8">
       <!-- Title -->       
       <p class="content__article-title content__article-title">
