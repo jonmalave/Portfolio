@@ -8,7 +8,7 @@
         Jon Malave
       </p>
       <p class="content__article-subtitle">
-        Web Developer based in Miami.
+        Full-Stack Web Developer based in Miami.
       </p>
       <p class="content__article-links">
         <a href="/docs/resume.pdf" target="_blank">
