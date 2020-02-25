@@ -34,7 +34,7 @@
       <p class="content__article-details">
         I am a professional full-stack web developer with a passion for responsive web design, and single-page application development. Currently a big fan of <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a>, and going serverless with <a href="https://cloud.google.com/" target="_blank">Google Cloud Platform</a>. 
         <br><br>
-        I'm comfortable building applications from the ground up for Software as a Service business models, and multi-user environments. I have working knowledge of continuous deployment strategies and Scrum agile process framework.
+        I'm comfortable building applications from the ground up for Software as a Service business models, and multi-user environments. I have working knowledge of Continuous Deployment and Scrum agile process.
         <br><br>        
         Please do <a href="mailto:jonmalave@gmail.com">contact</a> me! I'm open to explore new opportunities that will challenge my current skill set, and offer long term growth potential.
       </p>      
