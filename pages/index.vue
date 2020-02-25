@@ -32,7 +32,7 @@
     <!-- About Me -->
     <article class="content__article content__article--margin-16">
       <p class="content__article-details">
-        I am a professional full-stack web developer with a passion for responsive web design, and single-page application development. Currently a big fan of <a href="https://vuejs.org/" target="_blank">Vue</a> & <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a>, and going serverless with <a href="https://cloud.google.com/" target="_blank">Google Cloud Platform</a>.
+        I am a full-stack web developer with a passion for responsive web design, and single-page application development. Currently a big fan of <a href="https://vuejs.org/" target="_blank">Vue</a> & <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a>, and going serverless with <a href="https://cloud.google.com/" target="_blank">Google Cloud Platform</a>.
         <br><br>
         I'm comfortable building applications from the ground up for Software as a Service business models, and multi-user environments.
         <br><br>        
