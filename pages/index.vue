@@ -64,14 +64,14 @@
       </p>   
 
       <!-- Preview -->   
-      <a href="https://xportal.netlify.com" target="_blank">
+      <a href="https://github.com/jonmalave/xPortal" target="_blank">
         <img src="/img/xPortal.jpg" class="content__article-preview">
       </a> 
 
       <!-- Links --> 
       <p class="content__article-details">
         -- <br>        
-        <a href="https://xportal.netlify.com" target="_blank">Demo</a> | <a href="https://github.com/jonmalave/xPortal" target="_blank">View on Github</a>
+        <a href="https://github.com/jonmalave/xPortal" target="_blank">View on Github</a>
       </p>   
       <hr>
     </article>  
@@ -92,14 +92,14 @@
       </p>   
 
       <!-- Preview -->   
-      <a href="https://xchat.netlify.com" target="_blank">
+      <a href="https://github.com/jonmalave/xChat" target="_blank">
         <img src="/img/xChat.jpg" class="content__article-preview"> 
       </a>
 
       <!-- Links --> 
       <p class="content__article-details">
         -- <br>        
-        <a href="https://xchat.netlify.com" target="_blank">Demo</a> | <a href="https://github.com/jonmalave/xChat" target="_blank">View on Github</a>
+        <a href="https://github.com/jonmalave/xChat" target="_blank">View on Github</a>
       </p>   
       <hr>
     </article>
@@ -148,14 +148,14 @@
       </p>   
 
       <!-- Preview -->   
-      <a href="https://xfolio.netlify.com/" target="_blank">
+      <a href="https://github.com/jonmalave/xFolio" target="_blank">
         <img src="/img/xFolio.jpg" class="content__article-preview"> 
       </a>
 
       <!-- Links --> 
       <p class="content__article-details">
         -- <br>        
-        <a href="https://xfolio.netlify.com/" target="_blank">Demo</a> | <a href="https://github.com/jonmalave/xFolio" target="_blank">View on Github</a>
+        <a href="https://github.com/jonmalave/xFolio" target="_blank">View on Github</a>
       </p>   
       <hr>
     </article>    
@@ -176,14 +176,14 @@
       </p>   
 
       <!-- Preview -->   
-      <a href="https://xplate.netlify.com/" target="_blank">
+      <a href="https://github.com/jonmalave/xPlate" target="_blank">
         <img src="/img/xPlate.jpg" class="content__article-preview"> 
       </a>
 
       <!-- Links --> 
       <p class="content__article-details">
         -- <br>        
-        <a href="https://xplate.netlify.com/" target="_blank">Demo</a> | <a href="https://github.com/jonmalave/xPlate" target="_blank">View on Github</a>
+        <a href="https://github.com/jonmalave/xPlate" target="_blank">View on Github</a>
       </p>   
       <hr>
     </article>         
