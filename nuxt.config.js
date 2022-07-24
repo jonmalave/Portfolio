@@ -21,7 +21,7 @@ export default {
       { hid: 'og:description', property: 'og:description', content: 'Web developer with a passion for responsive web design, and single-page application development.' },
       { hid: 'og:type', property: 'og:type', content: 'article' },
       { hid: 'og:url', property: 'og:url', content: 'https://jonmalave.com' },
-      { hid: 'og:image', property: 'og:image', content: '/img/thumbnail.jpg' },
+      { hid: 'og:image', property: 'og:image', content: '~static/img/thumbnail.jpg' },
       { hid: 'og:image:width', property: 'og:image:width', content: '1024' },
       { hid: 'og:image:height', property: 'og:image:height', content: '512' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'jonmalave.com' },
@@ -31,10 +31,10 @@ export default {
       { hid: 'twitter:creator', property: 'twitter:creator', content: 'Jon Malave' },
       { hid: 'twitter:title', property: 'twitter:title', content: 'Jon Malave' },
       { hid: 'twitter:description', property: 'twitter:description', content: 'Web developer with a passion for responsive web design, and single-page application development.' },
-      { hid: 'twitter:image', property: 'twitter:image', content: '/img/thumbnail.jpg' }
+      { hid: 'twitter:image', property: 'twitter:image', content: '~static/img/thumbnail.jpg' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/img/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '~static/img/favicon.ico' }
     ]
   },
 
