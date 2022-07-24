@@ -1,0 +1,37 @@
+{
+	"env": {
+  	"browser": true
+	},
+	"extends": [
+		"plugin:nuxt/base",
+		"plugin:nuxt/recommended",
+		"plugin:vue/base",
+		"plugin:vue/essential",
+		"plugin:vue/recommended",
+		"plugin:import/recommended",
+		"plugin:promise/recommended",
+		"standard"
+	],
+	"parserOptions": {
+		"ecmaVersion": "latest",
+		"sourceType": "module"
+	},
+	"plugins": [
+		"nuxt",
+		"vue",
+		"import",
+		"promise"
+	],
+	"rules": {
+		"space-before-function-paren": ["error", "never"],
+		"vue/max-attributes-per-line": ["error", {
+			"singleline": {
+				"max": 2
+			},      
+			"multiline": {
+				"max": 3
+			}
+		}]
+	}
+}
+

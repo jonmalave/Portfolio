@@ -8,12 +8,21 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
+    "lint": "npm run lint:js",
+    "lintfix": "npm run lint:js -- --fix"
   },
   "dependencies": {
-    "nuxt": "2.10.1"
+    "nuxt": "2.15.8"
   },
   "devDependencies": {
-    "cross-env": "6.0.3"
+    "eslint": "8.17.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-n": "15.2.2",
+    "eslint-plugin-nuxt": "3.2.0",
+    "eslint-plugin-promise": "6.0.0",
+    "eslint-plugin-vue": "9.1.1"
   }
 }

@@ -1,14 +1,12 @@
-module.exports = {
-  // Server 
+export default {
+  ssr: false,
+  target: 'static',
   server: {
     host: 'localhost',
-    port: 3000
+    port: 80
   },
 
-  // Mode  
-  mode: 'universal',
-
-  // Headers of the page
+  // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Jon Malave | Web Developer',
     meta: [
@@ -23,45 +21,47 @@ module.exports = {
       { hid: 'og:description', property: 'og:description', content: 'Web developer with a passion for responsive web design, and single-page application development.' },
       { hid: 'og:type', property: 'og:type', content: 'article' },
       { hid: 'og:url', property: 'og:url', content: 'https://jonmalave.com' },
-      { hid: 'og:image', property: 'og:image', content: 'https://jonmalave.com/img/thumbnail.jpg' },
+      { hid: 'og:image', property: 'og:image', content: '/img/thumbnail.jpg' },
       { hid: 'og:image:width', property: 'og:image:width', content: '1024' },
       { hid: 'og:image:height', property: 'og:image:height', content: '512' },
       { hid: 'og:site_name', property: 'og:site_name', content: 'jonmalave.com' },
-      { hid: 'fb:app_id', property: 'fb:app_id', content: '2294868144103186' },      
+      { hid: 'fb:app_id', property: 'fb:app_id', content: '2294868144103186' },
       { hid: 'twitter:card', property: 'twitter:card', content: 'summary_large_image' },
       { hid: 'twitter:site', property: 'twitter:site', content: '@jonmalave' },
       { hid: 'twitter:creator', property: 'twitter:creator', content: 'Jon Malave' },
       { hid: 'twitter:title', property: 'twitter:title', content: 'Jon Malave' },
       { hid: 'twitter:description', property: 'twitter:description', content: 'Web developer with a passion for responsive web design, and single-page application development.' },
-      { hid: 'twitter:image', property: 'twitter:image', content: 'https://jonmalave.com/img/thumbnail.jpg' }      
+      { hid: 'twitter:image', property: 'twitter:image', content: '/img/thumbnail.jpg' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: 'https://jonmalave.com/img/icon.jpg' }
-    ] 
+      { rel: 'icon', type: 'image/x-icon', href: '/img/favicon.ico' }
+    ]
   },
 
   // Customize the progress-bar color
   loading: { color: '#fff' },
+  // Global CSS: https://go.nuxtjs.dev/config-css
 
-  // Global CSS
   css: [
     { src: '~assets/fonts/fontawesome/css/all.min.css', lang: 'css' }
   ],
 
-  // Plugins to load before mounting the App
+  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
   ],
 
-  // Nuxt.js modules
-  modules: [
+  // Auto import components: https://go.nuxtjs.dev/config-components
+  components: true,
 
+  // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
+  buildModules: [
   ],
 
-  // Build configuration
-  build: {
-    // You can extend webpack config here
-    extend(config, ctx) {
+  // Modules: https://go.nuxtjs.dev/config-modules
+  modules: [
+  ],
 
-    }
-  } 
+  // Build Configuration: https://go.nuxtjs.dev/config-build
+  build: {
+  }
 }
