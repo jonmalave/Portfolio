@@ -8,7 +8,7 @@
         Jon Malave
       </p>
       <p class="content__article-subtitle">
-        Web Developer based in Cape Coral, FL.
+        Full-Stack Web Developer
       </p>
       <p class="content__article-links">
         <a href="/docs/resume.pdf" target="_blank">
