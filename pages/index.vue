@@ -32,7 +32,7 @@
     <!-- About Me -->
     <article class="content__article content__article--margin-16">
       <p class="content__article-details">
-        👋 Hi, I'm Jon, a seasoned full-stack web developer with a passion for responsive web design and single-page application development. Currently, my focus includes working with <b>Nuxt.js</b> and implementing serverless solutions on <b>Google Cloud Platform</b>. I excel in building and supporting applications from the ground up for Software as a Service (SaaS) business models and multi-user environments. I am always seeking new opportunities that challenge my current skill set and offer long-term growth potential.
+        👋 Hi, I'm Jon, a seasoned full-stack web developer with a passion for responsive web design and single-page application development. My current focus includes working with <b>Nuxt.js & Vue.js frameworks</b> and implementing serverless solutions on <b>Google Cloud Platform</b>. I excel in building and supporting applications from the ground up for Software as a Service (SaaS) business models and multi-user environments. Notable achievements include leading the development of high-traffic SaaS applications that improved clients’ quality of life and user engagement. I thrive in collaborative environments and possess strong problem-solving & communication skills. I’m always seeking opportunities that challenge my skill set and offer long-term growth potential, driven by a deep passion for technology and continuous learning.
       </p>
     </article>
 
